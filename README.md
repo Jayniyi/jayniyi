@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+ 👯 I’m looking to collaborate on any front-end project
+  How to reach me: instagram(jayniyi), whatsapp(07068795963)
+  Fun fact: i Love Afre Beats
 <!--
 **Jayniyi/jayniyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
